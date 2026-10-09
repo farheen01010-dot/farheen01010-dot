@@ -65,7 +65,7 @@
 ![MS Excel](https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ### 🧠 Core Skills
-`Prompt Engineering` `LLM Evaluation` `RAG` `NLP` `Supervised Fine-Tuning (SFT)` `CoT Prompting` `JSON` `Data Annotation` `Dataset Curation`
+`LLMs` `Prompt Engineering` `LLM Evaluation` `RAG` `NLP` `OOPs` `APIs` `Supervised Fine-Tuning (SFT)` `CoT Prompting` `JSON` `Data Annotation` `Dataset Curation`
 
 ---
 
