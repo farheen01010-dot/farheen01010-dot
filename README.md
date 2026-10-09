@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=2000&color=6366F1&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Farheen;Technical+Researcher+in+AI;LLM+Evaluation+%7C+Prompt+Engineering+%7C+RAG)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=2000&color=6366F1&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Farheen;AI%2FML+Engineer;Technical+Researcher+in+AI;LLM+Evaluation+%7C+Prompt+Engineering+%7C+RAG)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=farheen01010-dot&label=Profile+Views&color=6366f1&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/farheen01010-dot?label=Followers&style=flat-square&color=6366f1)
@@ -139,19 +139,4 @@
 
 **🤖 Open to AI / LLM opportunities | 🚀 Always learning | 🎯 Focused on practical AI**
 
-</div>## Hi there 👋
-
-<!--
-**farheen01010-dot/farheen01010-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
