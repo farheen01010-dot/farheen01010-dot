@@ -68,42 +68,6 @@
 `LLMs` `Prompt Engineering` `LLM Evaluation` `RAG` `NLP` `OOPs` `APIs` `Supervised Fine-Tuning (SFT)` `CoT Prompting` `JSON` `Data Annotation` `Dataset Curation`
 
 ---
-name: Generate Snake Animation
-
-on:
-  # runs automatically every 12 hours
-  schedule:
-    - cron: "0 */12 * * *"
-  # lets you run it manually from the Actions tab
-  workflow_dispatch:
-  # runs when you push to main
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate snake from contribution graph
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push snake to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
----
 
 ## 🚀 Featured Projects
 
