@@ -14,7 +14,7 @@
 
 **Technical Researcher in Artificial Intelligence** with expertise in **LLM evaluation, prompt engineering, Retrieval-Augmented Generation (RAG) systems, model validation and data analysis**. I assess model performance, analyze model behavior, improve data quality and build scalable AI/ML evaluation pipelines, turning research insights into practical solutions that make AI applications more reliable and accurate.
 
-- 💼 **Role:** Technical Research Associate @ Keywords Studios, Gurugram (Oct 2025 – Present)
+- 💼 **Role:** Technical Research Associate @ Keywords Studios, Gurugram (May 2025 – Present)
 - 🎓 **Education:** Bachelor in Biotechnology, Sharda University, Greater Noida (Aug 2021 – Jun 2025)
 - 🔍 **What I do:** Prompt engineering, data labeling, LLM evaluation pipelines and SFT data work
 - 🏗️ **Latest project:** YouTube RAG Chatbot (LangChain + FAISS + Ollama)
