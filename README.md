@@ -25,7 +25,7 @@
 
 ## 💼 Experience Highlights
 
-### Technical Research Associate | Keywords Studios, Gurugram *(Oct 2025 – Present)*
+### Technical Research Associate | Keywords Studios, Gurugram *(Oct 2025 – Oct 2026)*
 - Reduced LLM errors by **75%** using prompt engineering, data labeling and evaluation pipelines
 - Led a team of **8 researchers** and standardized AI evaluation workflows
 - Contributed to multiple AI pilot projects involving **Supervised Fine-Tuning (SFT)** of LLMs: data preparation, annotation, QA and evaluation
@@ -33,7 +33,7 @@
 - Built **JSON-based action schemas** and tool-invocation validation for reliable agent decision-making
 - Performed quality assurance on AI/ML model outputs to surface inconsistencies
 
-### Research Associate | Keywords Studios *(May 2025 – Aug 2025)*
+### Research Associate | Keywords Studios *(May 2025 – Sept 2025)*
 - Annotated and curated large-scale datasets for AI model pre-training and ML pipelines
 - Classified structured and unstructured data against strict quality guidelines and client requirements
 - Improved training data quality, directly benefiting AI model performance
