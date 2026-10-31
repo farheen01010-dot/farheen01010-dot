@@ -14,10 +14,10 @@
 
 **Technical Researcher in Artificial Intelligence** with expertise in **LLM evaluation, prompt engineering, Retrieval-Augmented Generation (RAG) systems, model validation and data analysis**. I assess model performance, analyze model behavior, improve data quality and build scalable AI/ML evaluation pipelines, turning research insights into practical solutions that make AI applications more reliable and accurate.
 
-- 💼 **Role:** Technical Research Associate @ Keywords Studios, Gurugram (May 2025 – Present)
+- 💼 **Role:** Technical Research Associate @ Keywords Studios, Gurugram (Oct 2025 – Present)
 - 🎓 **Education:** Bachelor in Biotechnology, Sharda University, Greater Noida (Aug 2021 – Jun 2025)
 - 🔍 **What I do:** Prompt engineering, data labeling, LLM evaluation pipelines and SFT data work
-- 🏗️ **Latest project:** YouTube RAG Chatbot (LangChain + FAISS + Ollama)
+- 🏗️ **Latest project:** RAG Chatbot over Large PDFs (FastAPI + Qdrant + hybrid search + reranking)
 - 🧠 **Currently focused on:** LLM evaluation, advanced RAG and NLP
 - 📬 **Reach me:** farheen01010@gmail.com
 
@@ -25,7 +25,7 @@
 
 ## 💼 Experience Highlights
 
-### Technical Research Associate | Keywords Studios, Gurugram *(Oct 2025 – Oct 2026)*
+### Technical Research Associate | Keywords Studios, Gurugram *(Oct 2025 – Present)*
 - Reduced LLM errors by **75%** using prompt engineering, data labeling and evaluation pipelines
 - Led a team of **8 researchers** and standardized AI evaluation workflows
 - Contributed to multiple AI pilot projects involving **Supervised Fine-Tuning (SFT)** of LLMs: data preparation, annotation, QA and evaluation
@@ -55,6 +55,9 @@
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🧰 Tools & MLOps
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -70,6 +73,21 @@
 ---
 
 ## 🚀 Featured Projects
+
+### 📚 RAG Chatbot over Large PDFs
+> RAG chatbot over 2,000 pages of PDFs, including scanned pages, built on an open-source stack.
+
+- Built a pipeline with **OCR**, **hybrid search (dense + BM25)**, **cross-encoder reranking** and **streaming cited answers**
+- Reached **0.967 Recall@5** and **28/30 correct answers**, each citing the right page, with a **3.6 s median latency**
+- Fixed a **rank-fusion bug** that was dropping exact-match results
+- Trimmed prompts to stay within a **free-tier rate limit**
+
+**Stack:** `Python` `FastAPI` `Qdrant` `PyMuPDF` `Tesseract` `Groq API`
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/farheen01010-dot?tab=repositories)
+<!-- TODO: replace the link above with this project's repo URL -->
+
+---
 
 ### 📺 YouTube RAG Chatbot
 > RAG chatbot that answers questions from YouTube video transcripts using semantic search and Llama.
@@ -124,6 +142,12 @@
 - ✍️ Improving **prompt engineering** and reasoning-trace techniques
 - 🔎 Building more **RAG** applications
 - 🚀 Shipping **production-ready** ML projects with MLOps practices
+
+---
+
+## 🐍 Contribution Activity
+
+![Snake animation](https://raw.githubusercontent.com/farheen01010-dot/farheen01010-dot/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
